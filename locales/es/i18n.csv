@@ -1,0 +1,406 @@
+GALLERY_COPYRIGHT_NOTICE	Aviso de copyright de la galer√≠a
+SITE_SERVICE_HIERARCHY	Nombre de la jerarqu√≠a del servicio del sitio
+UPLOAD_PHOTO	subir foto
+UPLOAD_PHOTOS	subir fotos
+PREVIOUS	previo
+NEXT	siguiente
+TITLE	t√≠tulo
+CAPTION	subt√≠tulo
+KEYWORDS	palabras clave
+CREATOR	creador
+PUBLISHED_PHOTOS	fotos publicadas
+UNPUBLISHED_PHOTOS	fotos in√©ditas
+PUBLISHED_GALLERIES	galer√≠as publicados
+UNPUBLISHED_GALLERIES	galer√≠as in√©ditos
+SPONSORED_GALLERIES	galer√≠as patrocinadas
+UNSPONSORED_GALLERIES	galer√≠as no patrocinadas
+SEARCH	Buscar
+SEARCH_FOR	Buscar
+DATE_RANGE	Rango de fechas
+CREATED_DATE_RANGE	Rango de fechas creado
+OR	O
+FROM	de
+TO	a
+SEARCH_BY_LOCATION	b√∫squeda por ubicaci√≥n
+EVERYTHING	todo
+LAST_24_HOURS	en las √∫ltimas 24 horas
+LAST_WEEK	en la ultima semana
+LAST_MONTH	en el √∫ltimo mes
+ADDRESS_SEARCH	b√∫squeda de direcciones
+LATITUDE	latitud
+LONGITUDE	longitud
+MILE	milla
+MILES	millas
+ID	Id
+HEIGHT	altura
+WIDTH	anchura
+ORIGINAL_NAME	nombre original
+RATING	clasificaci√≥n
+DATE_TAKEN	Fecha de Captura
+DATE_CREATED	Fecha de Creacion
+DATE_UPDATED	Fecha Actualizada
+DATE_UPLOADED	Fecha de Subida
+MAX_HEIGHT	altura
+MAX_WIDTH	anchura
+FULL_SIZE_URL	Ruta de acceso en Anglerfish
+PUBLISH_PHOTO	publicar la foto
+LOCATION	ubicaci√≥n
+ADDRESS	direcci√≥n
+ADDRESS_LINE_1	Direcci√≥n L√≠nea 1
+ADDRESS_LINE_2	Direcci√≥n L√≠nea 2
+CITY	ciudad
+STATE	estado
+PROVINCE	provincia
+COUNTRY	pa√≠s
+POSTAL_CODE	c√≥digo ostal
+BACK	espalda
+SAVE	salvar
+BACK_TO_GALLERY	volver a la galer√≠a
+EDIT_PHOTO_DETAILS	Editar Detalles de Fotos
+PHOTO_DETAILS	detalles de fotos
+FILENAME	nombre del archivo
+PREVIEW	avance
+KEYWORDS_SEPARATED	las palabras clave se separted por
+INPUT_MAX_255	de entrada no debe exceder de 255 caracteres
+INPUT_MAX_1000	de entrada no debe exceder de 1000 caracteres
+INPUT_MAX_5000	de entrada no debe exceder de 5000 caracteres
+CONFIRM_DELETE_PHOTO	La eliminaci√≥n de esta foto tambi√©n se eliminar√° de todas las galer√≠as asociadas. ¬øest√°s seguro de que quieres eliminar esta foto?
+CONFIRM_DELETE_PHOTOS	La eliminaci√≥n de estas fotos tambi√©n las eliminar√° de todas las galer√≠as asociadas. ¬øSeguro que quieres eliminar estas fotos? 
+YES	s√≠
+NO	no
+DELETE_PHOTO_SUCCESS	Se ha eliminado la foto
+DELETE_PHOTOS_SUCCESS	Eliminado correctamente 
+DELETE_PHOTO_FAILURE	No se puede eliminar la foto
+DELETE_PHOTOS_FAILURE	No se puede eliminar 
+DELETE_PHOTO	Borrar foto
+PHOTO_UPLOAD	Fotos Subir
+UPLOAD	subir
+UPLOAD_MULTIPLE_PHOTOS	Sube M√∫ltiples Fotos
+UPLOAD_FILE	subir archivo
+UPLOAD_FILES	subir archivos
+UPLOAD_PROGRESS	Cargando...
+CANCEL	cancelar
+REMOVE	retirar
+FILE_TOO_LARGE	El archivo es demasiado grande debe ser inferior a
+IMAGE_UPLOAD_FAILURE	La imagen no se ha subido correctamente.
+INVALID_DATE	fecha invalida
+UNABLE_TO_UPLOAD_PHOTO	No se puede subir la foto
+IMAGE_UPLOAD_SUCCESS	Foto subido con √©xito
+IMAGE_UPDATE_FAILURE	No se puede actualizar la foto. 
+IMAGE_UPDATE_FAILURE2	No se puede actualizar la foto
+SUCCESSFUL_UPLOAD	Cargado con √©xito
+PHOTOS	fotos
+PHOTOS_U	Fotos
+PUBLISHED	publicado
+UNPUBLISHED	no publicado
+IMAGE_IS_PUBLISHED	Esta imagen es p√∫blica
+IMAGE_IS_UNPUBLISHED	Esta imagen no es visible para el p√∫blico
+EDIT	editar
+EDITOR_NOTE	Nota del editor
+CLOSE	cerca
+DASHBOARD	Tablero
+EDIT_PROFILE	Editar Perfil
+LOGOUT	Cerrar sesi√≥n
+CREATE_GALLERY	nueva galer√≠a
+NAME	Nombre
+NEW_GALLERY_FAILURE	No se pudo crear la galer√≠a se recibi√≥ error
+NEW_GALLERY_SUCCESS	Se ha creado correctamente la galer√≠a 
+UPDATE_GALLERY_FAILURE	No se pudo actualizar la galer√≠a se recibi√≥ error
+GALLERIES	galer√≠as
+CONFIRM_REMOVE_PHOTO_FROM_GALLERY	¬øEst√°s seguro de tu quieres eliminar esta foto de la galer√≠a?
+REMOVE_PHOTO	Retire las fotos
+REMOVE_PHOTO_FAILURE	No se puede eliminar la foto de la galer√≠a ha obtenido un error
+CONFIRM_DELETE	¬øEst√°s seguro de que quieres borrar 
+DELETE_GALLERY	Eliminar la Galer√≠a
+DELETE_GALLERY_SUCCESS	Se ha eliminado la galer√≠a
+DELETE_GALLERY_FAILURE	No se pudo eliminar la galer√≠a ha obtenido un error
+SAVE_BEFORE_NAV_AWAY	¬øDesea guardar los cambios de la galer√≠a antes de editar la foto de origen?
+YES_SAVE	s√≠ guardar
+ADD_PHOTOS	Agregar Fotos
+ADD_PHOTOS_SUCCESS	Fotos agregado con √©xito
+ADD_PHOTOS_ERROR	No se pudo a√±adir fotos a la galer√≠a ha obtenido un error
+ADD_CAPTION	A√±adir un subtitulo
+UPDATE_COVER_FAILURE	No se puede actualizar la foto de portadaha obtenido un error
+SETTINGS	ajustes
+CONFIRM_DELETE_ROLE	Seguro que quieres eliminar el rol
+DELETE_ROLE	eliminar rol
+CONFIRMATION	Confirmaci√≥n
+CONFIRMATION_REQUIRED	Confirmaci√≥n requerida
+PUBLISH	publicar
+UNPUBLISH	despublicaci√≥n
+SUCCESSFULLY_PUBLISHED	Publicado con √©xito
+COULD_NOT_PUBLISH	No se pudo publicar
+GET_PHOTOS_FAILURE	No es posible obtener fotos organizaci√≥n
+SAVE_SETTINGS_SUCCESS	Se ha guardado correctamente configuraci√≥n de la organizaci√≥n
+SAVE_SETTINGS_FAILURE	No se pudo guardar la configuraci√≥n, ha obtenido un error: 
+FIRST	primero
+LAST	pasado
+PHOTOS_PAGE_TITLE	Fotos
+EDIT_PHOTO	editar foto
+GALLERIES_PAGE_TITLE	Galer√≠as
+EDIT_GALLERY_PAGE_TITLE	Editar Galer√≠a
+SETTINGS_PAGE_TITLE	Ajustes
+SELECTOR_PAGE_TITLE	Selector
+ROLES	papeles
+COVER_PHOTO	Foto de cubierta
+MAKE_COVER	Crear portada
+ORDER_POSITION	Pedido/Posici√≥n:
+INPUT_MAX_20	de entrada no debe exceder de 20 caracteres
+RESET_TO_ORIGINAL	restablecer a la original
+CREATE_ROLE	Crear Papel
+NO_PHOTOS_FOUND	No se encontraron fotos.
+NO_LIGHTBOXES_FOUND	No se encontraron lightboxes
+NO_GALLERIES_FOUND	No se encontraron galer√≠as.
+DISPLAYING	Viendo
+OUT_OF	 fuera de 
+SELECT_PHOTOS_TO_PUBLISH	Las siguientes fotos no se publican, seleccione las fotos que desea publicar.
+UNPUBLISHED_PHOTOS_MESSAGE	Las siguientes fotos no est√°n publicados, pero no tienen acceso a publicarlos.
+CUSTOM	personalizado
+ALL	todas
+START_DATE	fecha de inicio
+END_DATE	fecha final
+PROXIMITY	proximidad
+SELECT_PHOTOS	seleccionar las fotos
+ROLES_OFF	Los roles est√°n apagados para su organizaci√≥n.
+NO_ANGLERFISH_ROLES	Usted no pertenece a ning√∫n rol de Anglerfish.
+NEW_ROLE	Nuevo papel
+PRIVILEGES	Privilegios
+SHOW_USERS	mostrar a los usuarios
+HIDE_USERS	ccultar usuarios
+NO_USERS_ASSIGNED_TO_ROLE	No hay usuarios se asignan a este rol
+ROLES_AND_PRIVILEGES	Roles y Privilegios
+DEFAULT_LATITUDE	latitud predeterminado
+DEFAULT_LONGITUDE	longitud predeterminada
+DEFAULT_WEBSITE	sitio web predeterminada
+LANGUAGE	idioma
+MAX_VALUE_85	valor m√°ximo es 85
+MIN_VALUE_NEG_85	valor m√≠nimo es -85
+MAX_VALUE_180	valor m√°ximo es 180
+MIN_VALUE_NEG_180	valor m√≠nimo es -180
+FILTERS	Limitar la b√∫squeda a
+DESCRIPTION	descripci√≥n
+NEW_USER_EMAIL	introduzca la direcci√≥n de correo electr√≥nico del nuevo usuario
+PHOTO_INFORMATION	informaci√≥n de la fotograf√≠a
+SHOW_INFO	mostrar informaci√≥n
+HIDE_INFO	ocultar informaci√≥n
+NO_PHOTOS_SELECTED_FOR_UPLOAD	¬°No se seleccionaron para la carga de fotos!
+RETURN	regreso
+ADD_TO_GALLERY	a√±adir a la galer√≠a
+SAVE_AND_PUBLISH	guardar y publicar
+SAVE_AND_UNPUBLISH	guardar y anular la publicaci√≥n
+LICENSES	Licencias
+LICENSABLE	a imagen puede obtener licencia
+LICENSABLE_PHOTOS	fotos licenciables
+UNLICENSABLE_PHOTOS	fotos unlicenciables
+SPONSORED_PHOTOS	fotos patrocinadas
+UNSPONSORED_PHOTOS	fotos no patrocinadas
+LIGHTBOXES	cajas de luz
+CREATE_LIGHTBOX	nueva caja de luz
+REMOVE_FROM_LIGHTBOX	¬øEst√°s seguro de que quieres eliminar esta foto de la caja de luz?
+ADD_TO_LIGHTBOX	a√±adir a la mesa de luz
+MARK_AS_COLOR	marcar como (color)
+GALLERY	galer√≠a
+LIGHTBOX	caja ligera
+SELECT_GALLERY	seleccione una galer√≠a
+SELECT_LIGHTBOX	seleccionar caja de luz
+SEND	enviar
+UPDATE_LIGHTBOX_COLOR_SUCCESS	color actualizado con √©xito de las fotos
+UPDATE_LIGHTBOX_COLOR_FAILURE	incapaz de actualizar el color de las fotos
+SEND_TO_GALLERY_SUCCESS	agreg√≥ fotos a la galer√≠a
+SEND_TO_GALLERY_FAILURE	No se pueden agregar fotos a la galer√≠a
+SEND_TO_LIGHTBOX_SUCCESS	agreg√≥ fotos a la caja de luz
+SEND_TO_LIGHTBOX_FAILURE	no se pueden a√±adir fotos al lightbox
+CONFIRM_REMOVE_FROM_LIGHTBOX	
+DELETE_LIGHTBOX	borrar caja de luz
+DELETE_LIGHTBOX_SUCCESS	Caja de luz eliminada correctamente
+DELETE_LIGHTBOX_FAILURE	No se pudo eliminar el lightbox obtuvo el error
+SELECT_GALLERIES	Selecciona Galer√≠as
+EXCEEDED_MAX_UPLOAD	No se pudo completar la subida. Solo puedes subir %max% fotos a la vez.
+CLICK_ADD_GALLERY	haga clic para agregar a la galer√≠a
+CLICK_ADD_LIGHTBOX	haga clic para agregar a la mesa de luz
+CLICK_TO_SELECT	clic para seleccionar
+CLICK_REMOVE_GALLERY	haga clic para eliminar de la galer√≠a
+CLICK_REMOVE_LIGHTBOX	haga clic para eliminar de la caja de luz
+CLICK_TO_DESELECT	haga clic para anular la selecci√≥n
+MOVE_TO	mover a
+CONFIRM_REMOVE_FROM_GALLERY	¬øSeguro que quieres eliminar la(s) siguiente(s) foto(s) de la galer√≠a?
+NO_GALLERY_PUBLISH_PRIV	No puedes publicar esta galer√≠a porque no tienes privilegios para hacerlo. Hable con un administrador para obtener m√°s detalles.
+NO_GALLERY_SAVE_PRIV	You cannot update this gallery because you do not have privileges to do so. Talk to an admin for more details.
+SOURCE	fuente
+COPYRIGHT	derechos de autor
+CANONICAL_URL	url can√≥nica
+SITE	Sitio
+SITES	sitios
+SOURCE_NAME	Nombre de fuente de Arc
+SOURCE_TYPE	Tipo de fuente de Arc
+SOURCE_ID	Id de la fuente
+SUBTYPE	Subtipo
+LABEL	Etiqueta
+SLUG	Resumen
+CONTENT_RESTRICTIONS	Restricciones de contenido
+SYNDICATION	Sindicaci√≥n
+EXTERNAL_DISTRIBUTION	Distribuci√≥n externa
+VISIBLE_TO_SEARCH	Visible para buscar
+COMMENTS	Comentarios
+ALLOW_COMMENTS	Permitir comentarios
+DISPLAY_COMMENTS	Mostrar comentarios
+MODERATION_REQUIRED	Moderaci√≥n requerida
+DATE_PREFERENCE	Fecha de Preferencia
+CREATED_DATE	Fecha de subida a Anglerfish
+UPDATED_DATE	Fecha de la actualizaci√≥n m√°s reciente
+TAKEN_ON	Fecha en que se tom√≥ la foto
+DEFAULT_SEARCH_RANGE	Rango de b√∫squeda predeterminado
+ALL	Todas
+LAST_DAY	En las √∫ltimas 24 horas
+LAST_WEEK	En la ultima semana
+LAST_MONTH	En el √∫ltimo mes
+STATUS	Estado
+DEFAULT_STATUS	estado predeterminado en la b√∫squeda 
+DISPLAY_DATE	Fecha de visualizaci√≥n
+USAGE_INSTRUCTIONS	Instrucciones de uso
+WORKFLOW_STATUS	Estado del flujo de trabajo
+NOTE	Nota
+CROP_PHOTO	Cortar foto
+DOWNLOAD_PHOTO	Descargar foto
+ASPECT_RATIO	relaci√≥n de aspecto
+ADD	a√±adir
+UPDATE	actualizar
+MORE	m√°s
+MORE_SOURCES	A√±adir nombres de origen para buscar
+SOURCE_NAME_SETTINGS	Configuraci√≥n de nombre de fuente
+SOURCE_NAME_SETTINGS_DESCR	Configurar c√≥mo se muestran los nombres para cada fuente
+NONE	Ninguna
+CHECKBOX	Caja
+MORE_BUTTON	M√°s bot√≥n
+SELECT_ALL	seleccionar todo
+CLEAR	claro
+SELECTED	seleccionado
+UNABLE_TO_CROP_PHOTO	Hubo un error al recortar la foto.
+SPONSORED_CONTENT	Contenido patrocinado
+OWNER_NAME	cr√©dito personalizado
+CUSTOM_CREDIT	nombre del due√±o
+LOCATION_PLACEHOLDER	Un lugar o una descripci√≥n de la ubicaci√≥n
+PLANNED_PUBLISH_DATE	Fecha de publicaci√≥n planificada
+BEST_MATCH	Mejor Partido
+NEWEST	nov√≠simo
+OLDEST	antiguo
+SORT_BY	ordenar por
+BULK_COPY_TEXT	Copiar a todo
+WAIT_WHILE_SAVING	Por favor espere mientras guardamos sus fotos
+SAVING	Ahorro
+FIELD_OPTIONS	Opciones de Campo
+DEFAULTS	Valores predeterminados de campo
+VISIBILITY	Visibilidad de campo en la pantalla de edici√≥n
+CANONICAL_WEBSITE	Sitio web can√≥nico
+CHOOSE_ONE	elige uno
+INGESTION_METHOD	M√©todo de Ingesti√≥n
+MANUAL_UPLOAD	Carga Manual
+SECTIONS	secciones
+SECTION_NAMES	Nombres de secci√≥n
+LARGE	Grande
+MEDIUM	Medio
+SMALL	Peque√±a
+XSMALL	X-Peque√±a
+LOADING_PHOTOS	Cargando Fotos
+LOADING_LIGHTBOXES	Cargando Lightboxes
+LOADING_GALLERIES	Cargando Galer√≠as
+SAVING_PHOTOS	Guardando fotos
+SITE_HIERARCHY_SETTINGS	Configuraciones de Jerarqu√≠a del Sitio
+SITE_NAME	Nombre del sitio
+HIERARCHY_NAME	Jerarqu√≠a
+SITE_HIERARCHY	Jerarqu√≠a del sitio
+COLORS	Colores
+MORE_DETAILS	M√°s Detalles
+WEBSITE_URL	URL del sitio web
+SAVING_GALLERY	Guardando Galer√≠a
+NEW	Nuevo
+PHOTOGRAPHER	fot√≥grafo
+PUBLISH_ON_UPLOAD	Publicar Fotos al Cargar
+PHOTO_IS	La foto es
+RESTRICTED	Restringido
+UNRESTRICTED	Irrestricto
+CLONE	Clon
+DERIVATIVE_OF	Esta imagen es un derivado de
+COPY_TO_CLIPBOARD	Copiar a clipblard
+COPY_TO_CLIPBOARD_INSTR	Copiar al portapapeles  Ctrl + C, Enter
+CREDIT_IN_ARC	Cr√©dito (Registro IPTC en Arc)
+TITLE_IN_ARC	T√≠tulo del trabajo del creador (Registro IPTC en Arc)
+HEADLINE_IN_ARC	titular (Registro IPTC en Arc; Anteriormente conocido como "T√≠tulo")
+SOURCE_IN_ARC	Fuente (Registro IPTC en Arc)
+GALLERY_DERIVATIVE_OF	Esta galer√≠a es un derivado de
+LIGHTBOX_DERIVATIVE_OF	Este lightbox es un derivado de
+UPLOADED_BY	Subido por
+PRIMARY_WEBSITES	Sitios web principales
+SELECT_WEBSITE	Seleccione un sitio web
+WEBSITES	Sitios web
+SAVE_AND_RETURN	Guardar y regresar
+DP	Eliminar cualquier foto
+DG	Eliminar cualquier galer√≠a
+UP	Actualiza cualquier foto
+UG	Actualiza cualquier galer√≠a
+PP	Publica cualquier foto
+PG	Publica cualquier galer√≠a
+USPG	Usa fotos y galer√≠as patrocinadas
+URP	Usa fotos restringidas
+UPS	Subir fotos desde el selector
+SPR	Establecer foto restringida
+CP	Cortar Foto
+CPGL	Clonar fotos y galer√≠as
+UOS	Actualizar la configuraci√≥n de la organizaci√≥n
+CPAG	Publicar de forma cruzada cualquier galer√≠a
+UGPW	Actualizar la p√°gina web principal de la galer√≠a
+VG	Ver galer√≠a
+MY_ANGLERFISH_PERMISSIONS	Mis permisos de Anglerfish
+MY_GROUPS	Mis grupos
+MY_CONTACT_INFO	Mi informacion de contacto
+MY_PROFILE	Mi Perfil
+ORGANIZATION_SETTINGS	Configuraci√≥n de la Organizaci√≥n
+NO_ANGLERFISH_PRIVS	No tiene privilegios espec√≠ficos de Anglerfish
+DISTRIBUTOR_NAME	Nombre del distribuidor
+DISTRIBUTOR_CATEGORY	Categor√≠a de distribuidor
+DISTRIBUTOR_SUBCATEGORY	Subcategor√≠a del distribuidor
+STAFF	personal
+WIRES	cables
+FREELANCE	freelance
+STOCK	stock
+HANDOUT	folleto
+OTHER	otors
+SELECT_CATEGORY	Seleccione una categor√≠a
+FIELD_REQUIRED	¬øNecesario?
+FIELD_VISIBLE	¬øVisible?
+FIELD_SETTINGS	Configuraci√≥n de campo
+PHOTO_FIELDS	Campos de fotos
+PHOTO_ACTIVITY	Actividad de fotos
+APPEARS_IN	Aparece en
+CHANGE_HISTORY	Cambia la historia
+NUMBER_DAYS_RESTRICT_HANDOUT_IMAGES	N√∫mero de d√≠as para restringir las im√°genes de folleto
+PRIMARY_SECTION	Secci√≥n principal
+PRIMARY_WEBSITE	Sitio web principal
+ALL_SITES	Todos los sitios
+AT	a
+ON	en
+ASSOCIATED_TASKS	Tareas asociadas
+ADD_ASSOCIATED_TASK	A√±adir una tarea asociada
+IPTC_JOB_IDENTIFIER	Identificador de trabajo (Registro IPTC en Arc)
+IPTC_SOURCE	Fuente IPTC
+TASK_MODIFICATION_WARNING	Advertencia: los cambios en los ID de tarea de una foto afectar√°n a la caja de luz asociada a la tarea.
+EDIT_LIGHTBOX_DETAILS	Editar detalles de la caja de luz
+ASSOCIATED_TASK	Tasas asociadas
+NEW_LIGHTBOX_FAILURE	Error al crear la caja de luz
+ADD_PHOTOS_TO_A_GALLERY_OR_LIGHTBOX	A√±adir fotos a una galer√≠a o lightbox
+ADD_TO	a√±adir
+SEARCH_AND_SELECT	Busca y selecciona galer√≠as o lightboxes y agrega fotos a ellas
+INTERNAL_NOTE	Nota interna
+NO_GALLERY_VIEW_PRIV	No puede ver esta galer√≠a porque no tiene privilegios para hacerlo. Hable con un administrador para obtener m√°s detalles.
+PATH_TO_RESIZER	Camino al redimensionador
+NO_PHOTOS_SUMMITTED_FOR_TASKS	Todav√≠a no se han enviado im√°genes para tareas
+VIEW_URL_AFTER_PUBLISHING	Ver URL despu√©s de publicar y guardar
+IMAGE_TYPE	Tipo de imagen
+PHOTOGRAPH	Fotograf√≠a
+GRAPHIC	Gr√°fico
+ILLUSTRATION	Ilustraci√≥n
+THUMBNAIL	Miniatura
+UPLOAD_IMAGES	Subir imagenes
+BROWSE_FILES	B√∫squeda de archivos
+SELECT_FILES	Selecciona archivos
+MULTIEDIT_DISABLED	Solo puedes editar im√°genes de forma masiva del mismo tipo
