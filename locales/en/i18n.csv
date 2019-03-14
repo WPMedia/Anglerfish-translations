@@ -1,0 +1,406 @@
+GALLERY_COPYRIGHT_NOTICE	Gallery copyright notice
+SITE_SERVICE_HIERARCHY	Site service hierarchy name
+UPLOAD_PHOTO	upload photo
+UPLOAD_PHOTOS	upload photos
+PREVIOUS	previous
+NEXT	next
+TITLE	title
+CAPTION	caption
+KEYWORDS	keywords
+CREATOR	creator
+PUBLISHED_PHOTOS	published photos
+UNPUBLISHED_PHOTOS	unpublished photos
+PUBLISHED_GALLERIES	published galleries
+UNPUBLISHED_GALLERIES	unpublished galleries
+SPONSORED_GALLERIES	sponsored galleries
+UNSPONSORED_GALLERIES	non-sponsored galleries
+SEARCH	Search
+SEARCH_FOR	Search for
+DATE_RANGE	Date range
+CREATED_DATE_RANGE	Created date range
+OR	OR
+FROM	from
+TO	to
+SEARCH_BY_LOCATION	search by location
+EVERYTHING	everything
+LAST_24_HOURS	in the last 24 hours
+LAST_WEEK	in the last week
+LAST_MONTH	in the last month
+ADDRESS_SEARCH	address search
+LATITUDE	latitude
+LONGITUDE	longitude
+MILE	mile
+MILES	miles
+ID	Id
+HEIGHT	height
+WIDTH	width
+ORIGINAL_NAME	original name
+RATING	rating
+DATE_TAKEN	Date Captured
+DATE_CREATED	Date Created
+DATE_UPDATED	Date Updated
+DATE_UPLOADED	Date Uploaded
+MAX_HEIGHT	height
+MAX_WIDTH	width
+FULL_SIZE_URL	path in Anglerfish
+PUBLISH_PHOTO	publish photo
+LOCATION	location
+ADDRESS	address
+ADDRESS_LINE_1	address line 1
+ADDRESS_LINE_2	address line 2
+CITY	city
+STATE	state
+PROVINCE	province
+COUNTRY	country
+POSTAL_CODE	postal code
+BACK	back
+SAVE	save
+BACK_TO_GALLERY	back to gallery
+EDIT_PHOTO_DETAILS	Edit Photo Details
+PHOTO_DETAILS	photo details
+FILENAME	filename
+PREVIEW	preview
+KEYWORDS_SEPARATED	keywords are separated by
+INPUT_MAX_255	input must not exceed 255 characters
+INPUT_MAX_1000	input must not exceed 1000 characters
+INPUT_MAX_5000	input must not exceed 5000 characters
+CONFIRM_DELETE_PHOTO	Deleting this photo will also remove it from all associated galleries. Are you sure you want to delete this photo? 
+CONFIRM_DELETE_PHOTOS	Deleting these photos will also remove them from all associated galleries. Are you sure you want to delete these photos? 
+YES	Yes
+NO	No
+DELETE_PHOTO_SUCCESS	Successfully deleted photo
+DELETE_PHOTOS_SUCCESS	Successfully deleted 
+DELETE_PHOTO_FAILURE	Unable to delete photo
+DELETE_PHOTOS_FAILURE	Unable to delete 
+DELETE_PHOTO	Delete
+PHOTO_UPLOAD	Photo Upload
+UPLOAD	upload
+UPLOAD_MULTIPLE_PHOTOS	Upload Multiple Photos
+UPLOAD_FILE	upload file
+UPLOAD_FILES	upload files
+UPLOAD_PROGRESS	Uploading...
+CANCEL	cancel
+REMOVE	remove
+FILE_TOO_LARGE	File too large must be less than
+IMAGE_UPLOAD_FAILURE	Image was not successfully uploaded.
+INVALID_DATE	invalid date
+UNABLE_TO_UPLOAD_PHOTO	Unable to upload photo
+IMAGE_UPLOAD_SUCCESS	Successfully uploaded photo
+IMAGE_UPDATE_FAILURE	Unable to update photo. 
+IMAGE_UPDATE_FAILURE2	Unable to update photo
+SUCCESSFUL_UPLOAD	Successfully uploaded
+PHOTOS	photos
+PHOTOS_U	Photos
+PUBLISHED	published
+UNPUBLISHED	unpublished
+IMAGE_IS_PUBLISHED	This image is public
+IMAGE_IS_UNPUBLISHED	This image is not visible to the public
+EDIT	edit
+EDITOR_NOTE	Editor Note
+CLOSE	close
+DASHBOARD	Dashboard
+EDIT_PROFILE	Edit Profile
+LOGOUT	Logout
+CREATE_GALLERY	New Gallery
+NAME	Name
+NEW_GALLERY_FAILURE	Could not create gallery received error
+NEW_GALLERY_SUCCESS	Successfully created gallery 
+UPDATE_GALLERY_FAILURE	Could not update gallery received error
+GALLERIES	galleries
+CONFIRM_REMOVE_PHOTO_FROM_GALLERY	Are you sure you want to remove this photo from the gallery?
+REMOVE_PHOTO	Remove Photo
+REMOVE_PHOTO_FAILURE	Unable to remove photo from gallery got error
+CONFIRM_DELETE	Are you sure you want to delete 
+DELETE_GALLERY	Delete Gallery
+DELETE_GALLERY_SUCCESS	Successfully deleted gallery
+DELETE_GALLERY_FAILURE	Could not delete gallery got error
+SAVE_BEFORE_NAV_AWAY	Do you want to save gallery changes before editing source photo?
+YES_SAVE	Yes save
+ADD_PHOTOS	Add Photos
+ADD_PHOTOS_SUCCESS	Successfully added photos
+ADD_PHOTOS_ERROR	Could not add photos to gallery got error
+ADD_CAPTION	Add Caption
+UPDATE_COVER_FAILURE	Unable to update cover photo got error
+SETTINGS	settings
+CONFIRM_DELETE_ROLE	Are you sure you want to delete role 
+DELETE_ROLE	Delete Role
+CONFIRMATION	Confirmation
+CONFIRMATION_REQUIRED	Confirmation required.
+PUBLISH	publish
+UNPUBLISH	unpublish
+SUCCESSFULLY_PUBLISHED	Successfully published
+COULD_NOT_PUBLISH	Could not publish 
+GET_PHOTOS_FAILURE	Unable to fetch organization photos
+SAVE_SETTINGS_SUCCESS	Successfully saved organization settings.
+SAVE_SETTINGS_FAILURE	Could not save settings got error
+FIRST	first
+LAST	last
+PHOTOS_PAGE_TITLE	Photos
+EDIT_PHOTO	Edit
+GALLERIES_PAGE_TITLE	Galleries
+EDIT_GALLERY_PAGE_TITLE	Edit Gallery
+SETTINGS_PAGE_TITLE	Settings
+SELECTOR_PAGE_TITLE	Selector
+ROLES	roles
+COVER_PHOTO	Cover Photo
+MAKE_COVER	Make Cover
+ORDER_POSITION	Order/Position
+INPUT_MAX_20	input must not exceed 20 characters
+RESET_TO_ORIGINAL	reset to original
+CREATE_ROLE	Create Role
+NO_PHOTOS_FOUND	No photos found.
+NO_LIGHTBOXES_FOUND	No lightboxes found.
+NO_GALLERIES_FOUND	No galleries found.
+DISPLAYING	Displaying 
+OUT_OF	 out of 
+SELECT_PHOTOS_TO_PUBLISH	The following photos are not published select the photos you would like to publish.
+UNPUBLISHED_PHOTOS_MESSAGE	The following photos are not published but you do not have access to publish them.
+CUSTOM	custom
+ALL	all
+START_DATE	Start Date
+END_DATE	End Date
+PROXIMITY	proximity
+SELECT_PHOTOS	Select Photos
+ROLES_OFF	Roles are turned off for your organization.
+NO_ANGLERFISH_ROLES	You do not belong to any anglerfish roles.
+NEW_ROLE	New Role
+PRIVILEGES	Privileges
+SHOW_USERS	show users
+HIDE_USERS	hide users
+NO_USERS_ASSIGNED_TO_ROLE	No users are assigned to this role
+ROLES_AND_PRIVILEGES	Roles and Privileges
+DEFAULT_LATITUDE	default latitude
+DEFAULT_LONGITUDE	default longitude
+DEFAULT_WEBSITE	default website
+LANGUAGE	language
+MAX_VALUE_85	maximum value is 85
+MIN_VALUE_NEG_85	minimum value is -85
+MAX_VALUE_180	maximum value is 180
+MIN_VALUE_NEG_180	minimum value is -180
+FILTERS	Limit search to
+DESCRIPTION	description
+NEW_USER_EMAIL	enter new user's email address
+PHOTO_INFORMATION	photo information
+SHOW_INFO	show info
+HIDE_INFO	hide info
+NO_PHOTOS_SELECTED_FOR_UPLOAD	No photos were selected for upload!
+RETURN	return
+ADD_TO_GALLERY	add to gallery
+SAVE_AND_PUBLISH	save and publish
+SAVE_AND_UNPUBLISH	save and unpublish
+LICENSES	Licenses
+LICENSABLE	Image can be licensed to the public
+LICENSABLE_PHOTOS	licensable photos
+UNLICENSABLE_PHOTOS	unlicensable photos
+SPONSORED_PHOTOS	sponsored photos
+UNSPONSORED_PHOTOS	non-sponsored photos
+LIGHTBOXES	lightboxes
+CREATE_LIGHTBOX	New Lightbox
+REMOVE_FROM_LIGHTBOX	Are you sure you want to remove this photo from the lightbox?
+ADD_TO_LIGHTBOX	add to lightbox
+MARK_AS_COLOR	mark as (color)
+GALLERY	gallery
+LIGHTBOX	lightbox
+SELECT_GALLERY	select gallery
+SELECT_LIGHTBOX	select lightbox
+SEND	send
+UPDATE_LIGHTBOX_COLOR_SUCCESS	Successfully updated color of photos
+UPDATE_LIGHTBOX_COLOR_FAILURE	Unable to update color of photos
+SEND_TO_GALLERY_SUCCESS	Successfully added photos to gallery
+SEND_TO_GALLERY_FAILURE	Unable to add photos to gallery
+SEND_TO_LIGHTBOX_SUCCESS	Successfully added photos to lightbox
+SEND_TO_LIGHTBOX_FAILURE	Unable to add photos to lightbox
+CONFIRM_REMOVE_FROM_LIGHTBOX	Are you sure you want to remove the following photo(s) from the lightbox? 
+DELETE_LIGHTBOX	Delete Lightbox
+DELETE_LIGHTBOX_SUCCESS	Successfully deleted lightbox
+DELETE_LIGHTBOX_FAILURE	Could not delete lightbox got error
+SELECT_GALLERIES	Select Galleries
+EXCEEDED_MAX_UPLOAD	Could not complete upload. You may only upload %max% photos at once.
+CLICK_ADD_GALLERY	click to add to gallery
+CLICK_ADD_LIGHTBOX	click to add to lightbox
+CLICK_TO_SELECT	click to select
+CLICK_REMOVE_GALLERY	click to remove from gallery
+CLICK_REMOVE_LIGHTBOX	click to remove from lightbox
+CLICK_TO_DESELECT	click to deselect
+MOVE_TO	move to
+CONFIRM_REMOVE_FROM_GALLERY	Are you sure you want to remove the following photo(s) from the gallery? 
+NO_GALLERY_PUBLISH_PRIV	You cannot publish this gallery because you do not have privileges to do so. Talk to an admin for more details.
+NO_GALLERY_SAVE_PRIV	You cannot update this gallery because you do not have privileges to do so. Talk to an admin for more details.
+SOURCE	source
+COPYRIGHT	copyright
+CANONICAL_URL	canonical url
+SITE	Site
+SITES	sites
+SOURCE_NAME	Arc Source Name
+SOURCE_TYPE	Arc Source Type
+SOURCE_ID	source id
+SUBTYPE	Subtype
+LABEL	Label
+SLUG	slug
+CONTENT_RESTRICTIONS	Content Restrictions
+SYNDICATION	Syndication
+EXTERNAL_DISTRIBUTION	External Distribution
+VISIBLE_TO_SEARCH	Visible To Search
+COMMENTS	Comments
+ALLOW_COMMENTS	Allow Comments
+DISPLAY_COMMENTS	Display Comments
+MODERATION_REQUIRED	Moderation Required
+DATE_PREFERENCE	Date Preference
+CREATED_DATE	Date uploaded to Anglerfish
+UPDATED_DATE	Date of most recent update
+TAKEN_ON	Date photo was taken
+DEFAULT_SEARCH_RANGE	Default search range
+ALL	All
+LAST_DAY	In the last 24 hours
+LAST_WEEK	In the last week
+LAST_MONTH	In the last month
+STATUS	Status
+DEFAULT_STATUS	default status in search
+DISPLAY_DATE	Display Date
+USAGE_INSTRUCTIONS	Usage Instructions
+WORKFLOW_STATUS	Workflow Status
+NOTE	Note
+CROP_PHOTO	Crop
+DOWNLOAD_PHOTO	Download
+ASPECT_RATIO	aspect ratio
+ADD	add
+UPDATE	update
+MORE	more
+MORE_SOURCES	Add source names to search
+SOURCE_NAME_SETTINGS	Source name settings
+SOURCE_NAME_SETTINGS_DESCR	Configure how names are displayed for each source type
+NONE	None
+CHECKBOX	Checkbox
+MORE_BUTTON	More button
+SELECT_ALL	select all
+CLEAR	clear
+SELECTED	selected
+UNABLE_TO_CROP_PHOTO	There was an error in cropping the photo.
+SPONSORED_CONTENT	Sponsored Content
+OWNER_NAME	Owner name
+CUSTOM_CREDIT	custom credit
+LOCATION_PLACEHOLDER	A placeline or description of the location
+PLANNED_PUBLISH_DATE	Planned Publish Date
+BEST_MATCH	Best Match
+NEWEST	newest
+OLDEST	oldest
+SORT_BY	sort by
+BULK_COPY_TEXT	Copy to all
+WAIT_WHILE_SAVING	Please wait while we save your photos
+SAVING	Saving
+FIELD_OPTIONS	Field Options
+DEFAULTS	Field Default Values
+VISIBILITY	Field Visibility In Edit Screen
+CANONICAL_WEBSITE	Canonical website
+CHOOSE_ONE	choose one
+INGESTION_METHOD	Ingestion Method
+MANUAL_UPLOAD	Manual Upload
+SECTIONS	Sections
+SECTION_NAMES	Section Names
+LARGE	Large
+MEDIUM	Medium
+SMALL	Small
+XSMALL	X-Small
+LOADING_PHOTOS	Loading Photos
+LOADING_LIGHTBOXES	Loading Lightboxes
+LOADING_GALLERIES	Loading Galleries
+SAVING_PHOTOS	Saving Photos
+SITE_HIERARCHY_SETTINGS	Site Hierarchy Settings
+SITE_NAME	Site Name
+HIERARCHY_NAME	Hierarchy
+SITE_HIERARCHY	Site Hierarchy
+COLORS	Colors
+MORE_DETAILS	More Details
+WEBSITE_URL	Website URL
+SAVING_GALLERY	Saving Gallery
+NEW	New
+PHOTOGRAPHER	photographer
+PUBLISH_ON_UPLOAD	Publish Photos on Upload
+PHOTO_IS	Photo is
+RESTRICTED	Restricted
+UNRESTRICTED	Unrestricted
+CLONE	Clone
+DERIVATIVE_OF	This image is a derivative of
+COPY_TO_CLIPBOARD	Copy to clipboard
+COPY_TO_CLIPBOARD_INSTR	Copy to clipboard   Ctrl + C, Enter
+CREDIT_IN_ARC	Credit (IPTC record in Arc)
+TITLE_IN_ARC	Creator's Job Title (IPTC record in Arc)
+HEADLINE_IN_ARC	headline (IPTC record in Arc; Formerly referred to as "Title")
+SOURCE_IN_ARC	Source (IPTC record in Arc)
+GALLERY_DERIVATIVE_OF	This gallery is a derivative of
+LIGHTBOX_DERIVATIVE_OF	This lightbox is a derivative of
+UPLOADED_BY	Uploaded by
+PRIMARY_WEBSITES	Primary websites
+SELECT_WEBSITE	Select a website
+WEBSITES	Websites
+SAVE_AND_RETURN	Save and return
+DP	Delete any photo
+DG	Delete any gallery
+UP	Update any photo
+UG	Update any gallery
+PP	Publish any photo
+PG	Publish any gallery
+USPG	Use sponsored photos and galleries
+URP	Use restricted photos
+UPS	Upload photo from selector
+SPR	Set photo restricted
+CP	Crop photos
+CPGL	Clone photos galleries and lightboxes
+UOS	Update organization settings
+CPAG	Cross-publish any gallery
+UGPW	Update gallery primary website
+VG	View Gallery
+MY_ANGLERFISH_PERMISSIONS	My Anglerfish Permissions
+MY_GROUPS	My Groups
+MY_CONTACT_INFO	My Contact Information
+MY_PROFILE	My Profile
+ORGANIZATION_SETTINGS	Organization Settings
+NO_ANGLERFISH_PRIVS	You have no specific Anglerfish privileges
+DISTRIBUTOR_NAME	Distributor Name
+DISTRIBUTOR_CATEGORY	Distributor Category
+DISTRIBUTOR_SUBCATEGORY	Distributor Subcategory
+STAFF	staff
+WIRES	wires
+FREELANCE	freelance
+STOCK	stock
+HANDOUT	handout
+OTHER	other
+SELECT_CATEGORY	Select Category
+FIELD_REQUIRED	Required?
+FIELD_VISIBLE	Visible?
+FIELD_SETTINGS	Field Settings
+PHOTO_FIELDS	Photo Fields
+PHOTO_ACTIVITY	Photo Activity
+APPEARS_IN	Appears In
+CHANGE_HISTORY	Change History
+NUMBER_DAYS_RESTRICT_HANDOUT_IMAGES	Number of days to restrict handout images
+PRIMARY_SECTION	Primary Section
+PRIMARY_WEBSITE	Primary website
+ALL_SITES	All sites
+AT	at
+ON	on
+ASSOCIATED_TASKS	Associated Tasks
+ADD_ASSOCIATED_TASK	Add an associated task
+IPTC_JOB_IDENTIFIER	Job Identifier (IPTC record in Arc)
+IPTC_SOURCE	IPTC Source
+TASK_MODIFICATION_WARNING	Warning: Changes to the Task IDs of a photo will affect the task-associated lightbox.
+EDIT_LIGHTBOX_DETAILS	Edit Lightbox Details
+ASSOCIATED_TASK	Associated Task
+NEW_LIGHTBOX_FAILURE	Failed to create lightbox
+ADD_PHOTOS_TO_A_GALLERY_OR_LIGHTBOX	Add Photos to a Gallery or Lightbox
+ADD_TO	Add To
+SEARCH_AND_SELECT	Search for and select galleries or lightboxes and add photos to them
+INTERNAL_NOTE	Internal Note
+NO_GALLERY_VIEW_PRIV	You cannot view this gallery because you do not have privileges to do so. Talk to an admin for more details.
+PATH_TO_RESIZER	Path to resizer
+NO_PHOTOS_SUMMITTED_FOR_TASKS	No images have yet been submitted for task(s)
+VIEW_URL_AFTER_PUBLISHING	View URL after publishing
+IMAGE_TYPE	Image Type
+PHOTOGRAPH	Photograph
+GRAPHIC	Graphic
+ILLUSTRATION	Illustration
+THUMBNAIL	Thumbnail
+UPLOAD_IMAGES	Upload Images
+BROWSE_FILES	Browse Files
+SELECT_FILES	Select Files
+MULTIEDIT_DISABLED	You can only bulk edit images of the same type
