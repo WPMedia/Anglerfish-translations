@@ -1,0 +1,406 @@
+GALLERY_COPYRIGHT_NOTICE	Avis de copyright de la galerie
+SITE_SERVICE_HIERARCHY	Nom de la hi√©rarchie du service de site
+UPLOAD_PHOTO	envoyer la photo
+UPLOAD_PHOTOS	t√©l√©charger des photos
+PREVIOUS	pr√©c√©dent
+NEXT	prochain
+TITLE	Titre
+CAPTION	l√©gende
+KEYWORDS	mots cl√©s
+CREATOR	cr√©ateur
+PUBLISHED_PHOTOS	photos publi√©es
+UNPUBLISHED_PHOTOS	photos non publi√©es
+PUBLISHED_GALLERIES	galeries publi√©es
+UNPUBLISHED_GALLERIES	galeries in√©dites
+SPONSORED_GALLERIES	galeries sponsoris√©es
+UNSPONSORED_GALLERIES	galeries non sponsoris√©es
+SEARCH	Chercher
+SEARCH_FOR	Rechercher
+DATE_RANGE	Plage de dates
+CREATED_DATE_RANGE	Date de cr√©ation
+OR	OU
+FROM	de
+TO	√†
+SEARCH_BY_LOCATION	rechercher par lieu
+EVERYTHING	tout
+LAST_24_HOURS	au cours des derni√®res 24 heures
+LAST_WEEK	la semaine derni√®re
+LAST_MONTH	au cours du dernier mois
+ADDRESS_SEARCH	recherche d'adresse
+LATITUDE	latitude
+LONGITUDE	longitude
+MILE	mile
+MILES	miles
+ID	Id
+HEIGHT	la taille
+WIDTH	largeur
+ORIGINAL_NAME	nom d'origine
+RATING	√©valuation
+DATE_TAKEN	Date de capture
+DATE_CREATED	date cr√©√©e
+DATE_UPDATED	Date mise √† jour
+DATE_UPLOADED	Date d'envoi
+MAX_HEIGHT	la taille
+MAX_WIDTH	largeur
+FULL_SIZE_URL	chemin d'acc√®s √† Anglerfish
+PUBLISH_PHOTO	publier une photo
+LOCATION	emplacement
+ADDRESS	adresse
+ADDRESS_LINE_1	Adresse 1
+ADDRESS_LINE_2	Adresse Ligne 2
+CITY	ville
+STATE	Etat
+PROVINCE	Province
+COUNTRY	pays
+POSTAL_CODE	code postal
+BACK	arri√®re
+SAVE	enregistrer
+BACK_TO_GALLERY	retour √† la galerie
+EDIT_PHOTO_DETAILS	Modifier les d√©tails de la photo
+PHOTO_DETAILS	d√©tails de la photo
+FILENAME	nom de fichier
+PREVIEW	Aper√ßu
+KEYWORDS_SEPARATED	les mots-cl√©s sont s√©par√©s par
+INPUT_MAX_255	l'entr√©e ne doit pas d√©passer 255 caract√®res
+INPUT_MAX_1000	l'entr√©e ne doit pas d√©passer 1000 caract√®res
+INPUT_MAX_5000	l'entr√©e ne doit pas d√©passer 5000 caract√®res
+CONFIRM_DELETE_PHOTO	La suppression de cette photo la supprimera √©galement de toutes les galeries associ√©es. Etes-vous s√ªr de vouloir supprimer cette photo?
+CONFIRM_DELETE_PHOTOS	La suppression de ces photos les supprimera √©galement de toutes les galeries associ√©es. √ätes-vous s√ªr de vouloir supprimer ces photos?
+YES	Oui
+NO	Non
+DELETE_PHOTO_SUCCESS	Photo supprim√©e avec succ√®s
+DELETE_PHOTOS_SUCCESS	Supprim√© avec succ√®s
+DELETE_PHOTO_FAILURE	Impossible de supprimer la photo
+DELETE_PHOTOS_FAILURE	Impossible de supprimer
+DELETE_PHOTO	Effacer
+PHOTO_UPLOAD	T√©l√©chargement de photos
+UPLOAD	t√©l√©charger
+UPLOAD_MULTIPLE_PHOTOS	T√©l√©charger plusieurs photos
+UPLOAD_FILE	t√©l√©verser un fichier
+UPLOAD_FILES	t√©l√©charger des fichiers
+UPLOAD_PROGRESS	T√©l√©chargement...
+CANCEL	Annuler
+REMOVE	retirer
+FILE_TOO_LARGE	Le fichier trop volumineux doit √™tre inf√©rieur √†
+IMAGE_UPLOAD_FAILURE	L'image n'a pas √©t√© t√©l√©charg√©e avec succ√®s.
+INVALID_DATE	date invalide
+UNABLE_TO_UPLOAD_PHOTO	Impossible de t√©l√©charger la photo
+IMAGE_UPLOAD_SUCCESS	Photo transf√©r√©e avec succ√®s
+IMAGE_UPDATE_FAILURE	Impossible de mettre √† jour la photo.
+IMAGE_UPDATE_FAILURE2	Impossible de mettre √† jour la photo
+SUCCESSFUL_UPLOAD	T√©l√©charg√© avec succ√®s
+PHOTOS	Photos
+PHOTOS_U	Photos
+PUBLISHED	publi√©
+UNPUBLISHED	non publi√©
+IMAGE_IS_PUBLISHED	Cette image est publique
+IMAGE_IS_UNPUBLISHED	Cette image n'est pas visible au public
+EDIT	modifier
+EDITOR_NOTE	Note de l'√©diteur
+CLOSE	Fermer
+DASHBOARD	Tableau de bord
+EDIT_PROFILE	Editer le profil
+LOGOUT	Connectez - Out
+CREATE_GALLERY	Nouvelle galerie
+NAME	pr√©nom
+NEW_GALLERY_FAILURE	Impossible de cr√©er une galerie d'erreur re√ßue
+NEW_GALLERY_SUCCESS	Galerie cr√©√©e avec succ√®s
+UPDATE_GALLERY_FAILURE	Impossible de mettre √† jour la galerie re√ßue erreur
+GALLERIES	galeries
+CONFIRM_REMOVE_PHOTO_FROM_GALLERY	√ätes-vous s√ªr de vouloir supprimer cette photo de la galerie?
+REMOVE_PHOTO	Retirer photo
+REMOVE_PHOTO_FAILURE	Impossible d'enlever la photo de la galerie a eu une erreur
+CONFIRM_DELETE	Etes-vous s√ªr que vous voulez supprimer
+DELETE_GALLERY	Supprimer la galerie
+DELETE_GALLERY_SUCCESS	Galerie supprim√©e avec succ√®s
+DELETE_GALLERY_FAILURE	Impossible d'effacer la galerie.
+SAVE_BEFORE_NAV_AWAY	Voulez-vous enregistrer les modifications de la galerie avant d'√©diter la photo source?
+YES_SAVE	Oui enregistrer
+ADD_PHOTOS	Ajouter des photos
+ADD_PHOTOS_SUCCESS	Photos ajout√©es avec succ√®s
+ADD_PHOTOS_ERROR	Impossible d'ajouter des photos √† la galerie.
+ADD_CAPTION	Ajouter une l√©gende
+UPDATE_COVER_FAILURE	Impossible de mettre √† jour la photo de couverture a eu une erreur
+SETTINGS	param√®tres
+CONFIRM_DELETE_ROLE	√ätes-vous s√ªr de vouloir supprimer le r√¥le
+DELETE_ROLE	Supprimer le r√¥le
+CONFIRMATION	Confirmation
+CONFIRMATION_REQUIRED	Confirmation requise.
+PUBLISH	publier
+UNPUBLISH	annuler la publication
+SUCCESSFULLY_PUBLISHED	Publi√© avec succ√®s
+COULD_NOT_PUBLISH	Impossible de publier
+GET_PHOTOS_FAILURE	Impossible de r√©cup√©rer les photos de l'organisation
+SAVE_SETTINGS_SUCCESS	Param√®tres d'organisation enregistr√©s avec succ√®s
+SAVE_SETTINGS_FAILURE	Impossible d'enregistrer les param√®tres avec erreur
+FIRST	premier
+LAST	dernier
+PHOTOS_PAGE_TITLE	Photos
+EDIT_PHOTO	modifier
+GALLERIES_PAGE_TITLE	Galeries
+EDIT_GALLERY_PAGE_TITLE	Modifier la galerie
+SETTINGS_PAGE_TITLE	Param√®tres
+SELECTOR_PAGE_TITLE	S√©lecteur
+ROLES	les r√¥les
+COVER_PHOTO	Photo de couverture
+MAKE_COVER	Faire la couverture
+ORDER_POSITION	Ordre / Position
+INPUT_MAX_20	l'entr√©e ne doit pas d√©passer 20 caract√®res
+RESET_TO_ORIGINAL	r√©initialiser √† l'original
+CREATE_ROLE	Cr√©er un r√¥le
+NO_PHOTOS_FOUND	Aucune photo trouv√©e.
+NO_LIGHTBOXES_FOUND	Aucune visionneuse trouv√©e.
+NO_GALLERIES_FOUND	Aucune galerie trouv√©e.
+DISPLAYING	Affichage
+OUT_OF	hors de
+SELECT_PHOTOS_TO_PUBLISH	Les photos suivantes ne sont pas publi√©es, s√©lectionnez les photos que vous souhaitez publier.
+UNPUBLISHED_PHOTOS_MESSAGE	Les photos suivantes ne sont pas publi√©es mais vous n'avez pas acc√®s √† les publier.
+CUSTOM	Douane
+ALL	tout
+START_DATE	Date de d√©but
+END_DATE	Date de fin
+PROXIMITY	proximit√©
+SELECT_PHOTOS	S√©lectionner des photos
+ROLES_OFF	Les r√¥les sont d√©sactiv√©s pour votre organisation.
+NO_ANGLERFISH_ROLES	Vous n'appartenez √† aucun des r√¥les de la lotte.
+NEW_ROLE	Nouveau r√¥le
+PRIVILEGES	Privil√®ges
+SHOW_USERS	afficher les utilisateurs
+HIDE_USERS	masquer les utilisateurs
+NO_USERS_ASSIGNED_TO_ROLE	Aucun utilisateur n'est affect√© √† ce r√¥le
+ROLES_AND_PRIVILEGES	R√¥les et privil√®ges
+DEFAULT_LATITUDE	latitude par d√©faut
+DEFAULT_LONGITUDE	longitude par d√©faut
+DEFAULT_WEBSITE	site par d√©faut
+LANGUAGE	la langue
+MAX_VALUE_85	la valeur maximale est 85
+MIN_VALUE_NEG_85	la valeur minimale est -85
+MAX_VALUE_180	la valeur maximale est de 180
+MIN_VALUE_NEG_180	la valeur minimale est -180
+FILTERS	Limiter la recherche √†
+DESCRIPTION	la description
+NEW_USER_EMAIL	entrez l'adresse e-mail du nouvel utilisateur
+PHOTO_INFORMATION	photo d'information
+SHOW_INFO	montrer l'info
+HIDE_INFO	Masquer les infos
+NO_PHOTOS_SELECTED_FOR_UPLOAD	Aucune photo n'a √©t√© s√©lectionn√©e pour le t√©l√©chargement!
+RETURN	revenir
+ADD_TO_GALLERY	ajouter √† la galerie
+SAVE_AND_PUBLISH	enregistrer et publier
+SAVE_AND_UNPUBLISH	enregistrer et annuler la publication
+LICENSES	Licences
+LICENSABLE	L'image peut √™tre licenci√©e au public
+LICENSABLE_PHOTOS	photos sous licence
+UNLICENSABLE_PHOTOS	photos sans licence
+SPONSORED_PHOTOS	photos sponsoris√©es
+UNSPONSORED_PHOTOS	photos non sponsoris√©es
+LIGHTBOXES	des caissons lumineux
+CREATE_LIGHTBOX	Nouvelle Lightbox
+REMOVE_FROM_LIGHTBOX	√ätes-vous s√ªr de vouloir supprimer cette photo de la visionneuse?
+ADD_TO_LIGHTBOX	ajouter √† la lightbox
+MARK_AS_COLOR	marquer comme (couleur)
+GALLERY	Galerie
+LIGHTBOX	boite √† lumi√®re
+SELECT_GALLERY	s√©lectionnez la galerie
+SELECT_LIGHTBOX	s√©lectionnez lightbox
+SEND	envoyer
+UPDATE_LIGHTBOX_COLOR_SUCCESS	Couleur des photos mise √† jour avec succ√®s
+UPDATE_LIGHTBOX_COLOR_FAILURE	Impossible de mettre √† jour la couleur des photos
+SEND_TO_GALLERY_SUCCESS	Ajout de photos √† la galerie avec succ√®s
+SEND_TO_GALLERY_FAILURE	Impossible d'ajouter des photos √† la galerie
+SEND_TO_LIGHTBOX_SUCCESS	Ajout de photos r√©ussies √† la visionneuse
+SEND_TO_LIGHTBOX_FAILURE	Impossible d'ajouter des photos √† la visionneuse
+CONFIRM_REMOVE_FROM_LIGHTBOX	√ätes-vous s√ªr de vouloir supprimer les photos suivantes de la visionneuse?
+DELETE_LIGHTBOX	Supprimer la visionneuse
+DELETE_LIGHTBOX_SUCCESS	Lightbox supprim√© avec succ√®s
+DELETE_LIGHTBOX_FAILURE	Impossible de supprimer lightbox.
+SELECT_GALLERIES	S√©lectionnez les galeries
+EXCEEDED_MAX_UPLOAD	Impossible de terminer le t√©l√©chargement. Vous ne pouvez t√©l√©charger que des photos% max% √† la fois.
+CLICK_ADD_GALLERY	cliquez pour ajouter √† la galerie
+CLICK_ADD_LIGHTBOX	cliquez pour ajouter √† la visionneuse
+CLICK_TO_SELECT	cliquez pour s√©lectionner
+CLICK_REMOVE_GALLERY	cliquez pour retirer de la galerie
+CLICK_REMOVE_LIGHTBOX	cliquez pour retirer de la visionneuse
+CLICK_TO_DESELECT	cliquez pour d√©s√©lectionner
+MOVE_TO	d√©m√©nager √†
+CONFIRM_REMOVE_FROM_GALLERY	√ätes-vous s√ªr de vouloir supprimer les photos suivantes de la galerie?
+NO_GALLERY_PUBLISH_PRIV	Vous ne pouvez pas publier cette galerie, car vous n'avez pas les privil√®ges pour le faire. Parlez √† un administrateur pour plus de d√©tails.
+NO_GALLERY_SAVE_PRIV	Vous ne pouvez pas mettre √† jour cette galerie car vous n'avez pas les privil√®ges pour le faire. Parlez √† un administrateur pour plus de d√©tails.
+SOURCE	la source
+COPYRIGHT	droits d'auteur
+CANONICAL_URL	url canonique
+SITE	Site
+SITES	des sites
+SOURCE_NAME	Nom de la source d'Arc
+SOURCE_TYPE	Type de source d'Arc
+SOURCE_ID	identifiant de la source
+SUBTYPE	Sous-type
+LABEL	√âtiquette
+SLUG	limace
+CONTENT_RESTRICTIONS	Restrictions de contenu
+SYNDICATION	Syndication
+EXTERNAL_DISTRIBUTION	Distribution externe
+VISIBLE_TO_SEARCH	Visible √† la recherche
+COMMENTS	commentaires
+ALLOW_COMMENTS	Autoriser les commentaires
+DISPLAY_COMMENTS	Afficher les commentaires
+MODERATION_REQUIRED	Mod√©ration requise
+DATE_PREFERENCE	Pr√©f√©rence de date
+CREATED_DATE	Date ajout√©e dans Anglerfish
+UPDATED_DATE	Date de la derni√®re mise √† jour
+TAKEN_ON	Date √† laquelle la photo a √©t√© prise
+DEFAULT_SEARCH_RANGE	Plage de recherche par d√©faut
+ALL	Tout
+LAST_DAY	Au cours des derni√®res 24 heures
+LAST_WEEK	La semaine derni√®re
+LAST_MONTH	Au cours du dernier mois
+STATUS	Statut
+DEFAULT_STATUS	statut par d√©faut dans la recherche
+DISPLAY_DATE	Date d'affichage
+USAGE_INSTRUCTIONS	Instructions d'utilisation
+WORKFLOW_STATUS	Statut du flux de travail
+NOTE	Remarque
+CROP_PHOTO	Surgir
+DOWNLOAD_PHOTO	T√©l√©charger
+ASPECT_RATIO	ratio d'aspect
+ADD	ajouter
+UPDATE	mettre √† jour
+MORE	plus
+MORE_SOURCES	Ajouter des noms de sources √† rechercher
+SOURCE_NAME_SETTINGS	Param√®tres du nom de la source
+SOURCE_NAME_SETTINGS_DESCR	Configurer l'affichage des noms pour chaque type de source
+NONE	Aucun
+CHECKBOX	Case √† cocher
+MORE_BUTTON	Plus de bouton
+SELECT_ALL	tout s√©lectionner
+CLEAR	clair
+SELECTED	choisi
+UNABLE_TO_CROP_PHOTO	Une erreur s'est produite lors du recadrage de la photo.
+SPONSORED_CONTENT	Contenu sponsoris√©
+OWNER_NAME	Le nom du propri√©taire
+CUSTOM_CREDIT	cr√©dit personnalis√©
+LOCATION_PLACEHOLDER	Une ligne ou une description de l'emplacement
+PLANNED_PUBLISH_DATE	Date de publication pr√©vue
+BEST_MATCH	Meilleure correspondance
+NEWEST	plus r√©cent
+OLDEST	plus vieux
+SORT_BY	Trier par
+BULK_COPY_TEXT	Copier √† tous
+WAIT_WHILE_SAVING	Veuillez patienter pendant que nous sauvegardons vos photos
+SAVING	√âconomie
+FIELD_OPTIONS	Options de champ
+DEFAULTS	Valeurs par d√©faut du champ
+VISIBILITY	Visibilit√© sur le terrain dans l'√©cran d'√©dition
+CANONICAL_WEBSITE	Site web canonique
+CHOOSE_ONE	choisissez-en un
+INGESTION_METHOD	M√©thode d'ingestion
+MANUAL_UPLOAD	T√©l√©chargement manuel
+SECTIONS	Sections
+SECTION_NAMES	Noms de section
+LARGE	Grand
+MEDIUM	Moyen
+SMALL	Petit
+XSMALL	X-Small
+LOADING_PHOTOS	Chargement des photos
+LOADING_LIGHTBOXES	Chargement des Lightboxes
+LOADING_GALLERIES	Chargement des galeries
+SAVING_PHOTOS	Enregistrement de photos
+SITE_HIERARCHY_SETTINGS	Param√®tres de hi√©rarchie de site
+SITE_NAME	Nom du site
+HIERARCHY_NAME	Hi√©rarchie
+SITE_HIERARCHY	Hi√©rarchie du site
+COLORS	Couleurs
+MORE_DETAILS	Plus de d√©tails
+WEBSITE_URL	URL de site web
+SAVING_GALLERY	Galerie d'enregistrement
+NEW	Nouveau
+PHOTOGRAPHER	photographe
+PUBLISH_ON_UPLOAD	Publier des photos sur Upload
+PHOTO_IS	La photo est
+RESTRICTED	Limit√©
+UNRESTRICTED	Libre
+CLONE	Cloner
+DERIVATIVE_OF	Cette image est un d√©riv√© de
+COPY_TO_CLIPBOARD	Copier dans le presse-papier
+COPY_TO_CLIPBOARD_INSTR	Copier dans le presse-papier   Ctrl + C, Enter
+CREDIT_IN_ARC	Cr√©dit (Enregistrement IPTC dans Arc)
+TITLE_IN_ARC	Titre du poste du cr√©ateur (Enregistrement IPTC dans Arc)
+HEADLINE_IN_ARC	gros titre (Enregistrement IPTC dans Arc; Anciennement appel√© "Titre")
+SOURCE_IN_ARC	La source (Enregistrement IPTC dans Arc)
+GALLERY_DERIVATIVE_OF	Cette galerie est un d√©riv√© de
+LIGHTBOX_DERIVATIVE_OF	Cette lightbox est un d√©riv√© de
+UPLOADED_BY	Telecharg√© par
+PRIMARY_WEBSITES	Sites web primaires
+SELECT_WEBSITE	S√©lectionner un site web
+WEBSITES	Sites web
+SAVE_AND_RETURN	Enregistrer et retourner
+DP	Supprimer une photo
+DG	Supprimer une galerie
+UP	Mettre √† jour une photo
+UG	Mettre √† jour une galerie
+PP	Publier une photo
+PG	Publier une galerie
+USPG	Utilisez des photos et des galeries sponsoris√©es
+URP	Utiliser des photos restreintes
+UPS	T√©l√©charger une photo √† partir du s√©lecteur
+SPR	D√©finir photo restreinte
+CP	Photos de cultures
+CPGL	Cloner des photos, des galeries et des visionneuses
+UOS	Mettre √† jour les param√®tres
+CPAG	Cross-publish toute galerie
+UGPW	Mettre √† jour le site Web principal de la galerie
+VG	Voir la galerie
+MY_ANGLERFISH_PERMISSIONS	Mes autorisations de la baudroie
+MY_GROUPS	Mes groupes
+MY_CONTACT_INFO	Mes coordonn√©es
+MY_PROFILE	Mon Profil
+ORGANIZATION_SETTINGS	Param√®tres de l'Organisation
+NO_ANGLERFISH_PRIVS	Vous n'avez pas de privil√®ges sp√©cifiques √† Anglerfish
+DISTRIBUTOR_NAME	Nom du distributeur
+DISTRIBUTOR_CATEGORY	Cat√©gorie de distributeur
+DISTRIBUTOR_SUBCATEGORY	Sous-cat√©gorie de distributeur
+STAFF	personnel
+WIRES	fils
+FREELANCE	freelance
+STOCK	stock
+HANDOUT	document
+OTHER	autres
+SELECT_CATEGORY	S√©lectionner une cat√©gorie
+FIELD_REQUIRED	Champs obligatoires?
+FIELD_VISIBLE	Visible?
+FIELD_SETTINGS	Param√®tres de champ
+PHOTO_FIELDS	Champs de photo
+PHOTO_ACTIVITY	Activit√© photo
+APPEARS_IN	Appara√Æt dans
+CHANGE_HISTORY	Historique des modifications
+NUMBER_DAYS_RESTRICT_HANDOUT_IMAGES	Nombre de jours pour restreindre les images du document
+PRIMARY_SECTION	Section primaire
+PRIMARY_WEBSITE	Site web primaire
+ALL_SITES	Tous les sites
+AT	√†
+ON	sur
+ASSOCIATED_TASKS	T√¢ches associ√©es
+ADD_ASSOCIATED_TASK	Ajouter une t√¢che associ√©e
+IPTC_JOB_IDENTIFIER	Identifiant de travail (Enregistrement IPTC dans Arc)
+IPTC_SOURCE	Source IPTC
+TASK_MODIFICATION_WARNING	Avertissement: Les modifications apport√©es aux identifiants de t√¢che d'une photo affecteront la lightbox associ√©e √† la t√¢che.
+EDIT_LIGHTBOX_DETAILS	Modifier les d√©tails de la visionneuse
+ASSOCIATED_TASK	T√¢che associ√©e
+NEW_LIGHTBOX_FAILURE	Impossible de cr√©er la lightbox
+ADD_PHOTOS_TO_A_GALLERY_OR_LIGHTBOX	Ajouter des photos √† une galerie ou une lightbox
+ADD_TO	Ajouter √†
+SEARCH_AND_SELECT	Rechercher et s√©lectionner des galeries ou des albums et leur ajouter des photos
+INTERNAL_NOTE	Note interne
+NO_GALLERY_VIEW_PRIV	Vous ne pouvez pas afficher cette galerie car vous n'avez pas de privil√®ges pour le faire. Parlez √† un administrateur pour plus de d√©tails.
+PATH_TO_RESIZER	Chemin vers le resizer
+NO_PHOTOS_SUMMITTED_FOR_TASKS	Aucune image n'a encore √©t√© soumise pour une ou plusieurs t√¢ches.
+VIEW_URL_AFTER_PUBLISHING	Afficher l'URL apr√®s publication et enregistrement
+IMAGE_TYPE	Type d'image
+PHOTOGRAPH	Photographier
+GRAPHIC	Graphique
+ILLUSTRATION	Illustration
+THUMBNAIL	La vignette
+UPLOAD_IMAGES	Importer des images
+BROWSE_FILES	Parcourir les fichiers
+SELECT_FILES	S√©lectionnez les fichiers
+MULTIEDIT_DISABLED	Vous ne pouvez √©diter en bloc que des images du m√™me type
