@@ -1,0 +1,406 @@
+GALLERY_COPYRIGHT_NOTICE	Galerie Copyright-Hinweis
+SITE_SERVICE_HIERARCHY	Name der Site Service Hierarchie
+UPLOAD_PHOTO	Bild hochladen
+UPLOAD_PHOTOS	Bilder hochladen
+PREVIOUS	vorheriges
+NEXT	n√§chstes
+TITLE	Titel
+CAPTION	Bildunterschrift
+KEYWORDS	Keywords
+CREATOR	Ersteller
+PUBLISHED_PHOTOS	ver√∂ffentlichte Bilder
+UNPUBLISHED_PHOTOS	unver√∂ffentlichte Bilder
+PUBLISHED_GALLERIES	ver√∂ffentlichte Galerien
+UNPUBLISHED_GALLERIES	unver√∂ffentlichte Galerien
+SPONSORED_GALLERIES	gesponserte Galerien
+UNSPONSORED_GALLERIES	nicht gesponserte Galerien
+SEARCH	Suche
+SEARCH_FOR	Suchen nach
+DATE_RANGE	Zeitraum
+CREATED_DATE_RANGE	Erstellter Zeitraum
+OR	ODER
+FROM	von
+TO	bis
+SEARCH_BY_LOCATION	Suche nach Ort
+EVERYTHING	alles
+LAST_24_HOURS	in den letzten 24 Stunden
+LAST_WEEK	in der letzten Woche
+LAST_MONTH	im letzten Monat
+ADDRESS_SEARCH	Adresssuche
+LATITUDE	Breitengrad
+LONGITUDE	L√§ngengrad
+MILE	Meile
+MILES	Meilen
+ID	Id
+HEIGHT	H√∂he
+WIDTH	Breite
+ORIGINAL_NAME	Originalname
+RATING	Bewertung
+DATE_TAKEN	Datum der Erfassung
+DATE_CREATED	Datum der Erstellung
+DATE_UPDATED	Datum der Aktualisierung
+DATE_UPLOADED	Upload Datum
+MAX_HEIGHT	H√∂he
+MAX_WIDTH	Breite
+FULL_SIZE_URL	Pfad in Anglerfish
+PUBLISH_PHOTO	Bild ver√∂ffentlichen
+LOCATION	Ort
+ADDRESS	Adresse
+ADDRESS_LINE_1	Adresszeile 1
+ADDRESS_LINE_2	Adresszeile 2
+CITY	Stadt
+STATE	Bundesland
+PROVINCE	Landkreis
+COUNTRY	Land
+POSTAL_CODE	Postleitzahl
+BACK	zur√ºck
+SAVE	speichern
+BACK_TO_GALLERY	zur√ºck zur Galerie
+EDIT_PHOTO_DETAILS	Bilddetails bearbeiten
+PHOTO_DETAILS	Bilddetails
+FILENAME	Dateiname
+PREVIEW	Vorschau
+KEYWORDS_SEPARATED	Keywords werden getrennt durch
+INPUT_MAX_255	Eingabe darf nicht l√§nger als 255 Zeichen sein
+INPUT_MAX_1000	Eingabe darf nicht l√§nger als 1000 Zeichen sein
+INPUT_MAX_5000	Eingabe darf nicht l√§nger als 5000 Zeichen sein
+CONFIRM_DELETE_PHOTO	Durch L√∂schen des Bildes wird dieses auch aus allen verkn√ºpften Galerien entfernt. Soll dieses Bild wirklich gel√∂scht werden?
+CONFIRM_DELETE_PHOTOS	Durch L√∂schen der Bilder werden diese auch aus allen verkn√ºpften Galerien entfernt. Sollen diese Bilder wirklich gel√∂scht werden?
+YES	Ja
+NO	Nein
+DELETE_PHOTO_SUCCESS	Bild wurde erfolgreich gel√∂scht
+DELETE_PHOTOS_SUCCESS	Erfolgreich gel√∂scht
+DELETE_PHOTO_FAILURE	Bild konnte nicht gel√∂scht werden
+DELETE_PHOTOS_FAILURE	Konnte nicht gel√∂scht werden
+DELETE_PHOTO	L√∂schen
+PHOTO_UPLOAD	Bild hochladen
+UPLOAD	hochladen
+UPLOAD_MULTIPLE_PHOTOS	Mehrere Bilder hochladen
+UPLOAD_FILE	Datei hochladen
+UPLOAD_FILES	Dateien hochladen
+UPLOAD_PROGRESS	Hochladen ...
+CANCEL	abbrechen
+REMOVE	entfernen
+FILE_TOO_LARGE	Die Datei ist zu gro√ü. Sie muss kleiner sein als
+IMAGE_UPLOAD_FAILURE	Das Bild wurde nicht erfolgreich hochgeladen.
+INVALID_DATE	ung√ºltiges Datum
+UNABLE_TO_UPLOAD_PHOTO	Bild konnte nicht hochgeladen werden
+IMAGE_UPLOAD_SUCCESS	Bild wurde erfolgreich hochgeladen
+IMAGE_UPDATE_FAILURE	Bild konnte nicht aktualisiert werden.
+IMAGE_UPDATE_FAILURE2	Bild konnte nicht aktualisiert werden
+SUCCESSFUL_UPLOAD	Erfolgreich hochgeladen
+PHOTOS	Bilder
+PHOTOS_U	Bilder
+PUBLISHED	ver√∂ffentlicht
+UNPUBLISHED	unver√∂ffentlicht
+IMAGE_IS_PUBLISHED	Dieses Bild ist √∂ffentlich
+IMAGE_IS_UNPUBLISHED	Dieses Bild ist f√ºr die √ñffentlichkeit nicht sichtbar
+EDIT	bearbeiten
+EDITOR_NOTE	Notiz des Redakteurs
+CLOSE	schlie√üen
+DASHBOARD	√úbersichtsseite
+EDIT_PROFILE	Profil bearbeiten
+LOGOUT	Abmelden
+CREATE_GALLERY	Neue Galerie
+NAME	Name
+NEW_GALLERY_FAILURE	Galerie konnte nicht erstellt werden
+NEW_GALLERY_SUCCESS	Galerie wurde erfolgreich erstellt
+UPDATE_GALLERY_FAILURE	Galerie konnte nicht aktualisiert werden
+GALLERIES	Galerien
+CONFIRM_REMOVE_PHOTO_FROM_GALLERY	Soll dieses Bild wirklich aus der Galerie entfernt werden?
+REMOVE_PHOTO	Bild entfernen
+REMOVE_PHOTO_FAILURE	Bild konnte nicht aus der Galerie entfernt werden
+CONFIRM_DELETE	Soll wirklich gel√∂scht werden?
+DELETE_GALLERY	Galerie l√∂schen
+DELETE_GALLERY_SUCCESS	Galerie wurde erfolgreich gel√∂scht
+DELETE_GALLERY_FAILURE	Galerie konnte nicht gel√∂scht werden
+SAVE_BEFORE_NAV_AWAY	Sollen die √Ñnderungen an der Galerie gespeichert werden bevor das Quellbild bearbeitet wird?
+YES_SAVE	Ja, speichern
+ADD_PHOTOS	Bilder hinzuf√ºgen
+ADD_PHOTOS_SUCCESS	Bilder wurden erfolgreich hinzugef√ºgt
+ADD_PHOTOS_ERROR	Bilder konnten nicht zur Galerie hinzugef√ºgt werden
+ADD_CAPTION	Bildunterschrift hinzuf√ºgen
+UPDATE_COVER_FAILURE	Cover-Bild konnte nicht aktualisiert werden
+SETTINGS	Einstellungen
+CONFIRM_DELETE_ROLE	Soll die Rolle wirklich gel√∂scht werden?
+DELETE_ROLE	Rolle l√∂schen
+CONFIRMATION	Best√§tigung
+CONFIRMATION_REQUIRED	Best√§tigung erforderlich.
+PUBLISH	ver√∂ffentlichen
+UNPUBLISH	Ver√∂ffentlichung aufheben
+SUCCESSFULLY_PUBLISHED	Erfolgreich ver√∂ffentlicht
+COULD_NOT_PUBLISH	Konnte nicht ver√∂ffentlicht werden
+GET_PHOTOS_FAILURE	Bilder des Unternehmens konnten nicht abgerufen werden
+SAVE_SETTINGS_SUCCESS	Einstellungen des Unternehmens wurden erfolgreich gespeichert.
+SAVE_SETTINGS_FAILURE	Einstellungen konnten nicht gespeichert werden
+FIRST	erstes
+LAST	letztes
+PHOTOS_PAGE_TITLE	Bilder
+EDIT_PHOTO	Bearbeiten
+GALLERIES_PAGE_TITLE	Galerien
+EDIT_GALLERY_PAGE_TITLE	Galerie bearbeiten
+SETTINGS_PAGE_TITLE	Einstellungen
+SELECTOR_PAGE_TITLE	Selektor
+ROLES	Rollen
+COVER_PHOTO	Cover-Bild
+MAKE_COVER	Cover erstellen
+ORDER_POSITION	Reihenfolge / Position
+INPUT_MAX_20	Eingabe darf nicht l√§nger als 20 Zeichen sein
+RESET_TO_ORIGINAL	In Originalzustand zur√ºcksetzen
+CREATE_ROLE	Rolle erstellen
+NO_PHOTOS_FOUND	Es wurden keine Bilder gefunden.
+NO_LIGHTBOXES_FOUND	Es wurde keine Lightbox gefunden.
+NO_GALLERIES_FOUND	Es wurden keine Galerien gefunden.
+DISPLAYING	Angezeigt werden
+OUT_OF	von
+SELECT_PHOTOS_TO_PUBLISH	Die folgenden Bilder sind nicht ver√∂ffentlicht. Bilder ausw√§hlen, die ver√∂ffentlicht werden sollen.
+UNPUBLISHED_PHOTOS_MESSAGE	Die folgenden Bilder sind nicht ver√∂ffentlicht. Du hast keine Berechtigung, die Bilder zu ver√∂ffentlichen.
+CUSTOM	benutzerdefiniert
+ALL	alle
+START_DATE	Anfangsdatum
+END_DATE	Enddatum
+PROXIMITY	Umkreis
+SELECT_PHOTOS	Bilder ausw√§hlen
+ROLES_OFF	Rollen sind f√ºr das Unternehmen deaktiviert.
+NO_ANGLERFISH_ROLES	Du bist keiner Anglerfish Rolle zugewiesen.
+NEW_ROLE	Neue Rolle
+PRIVILEGES	Berechtigungen
+SHOW_USERS	Benutzer zeigen
+HIDE_USERS	Benutzer ausblenden
+NO_USERS_ASSIGNED_TO_ROLE	Dieser Rolle sind keine Benutzer zugeordnet
+ROLES_AND_PRIVILEGES	Rollen und Berechtigungen
+DEFAULT_LATITUDE	Standard-Breitengrad
+DEFAULT_LONGITUDE	Standard-L√§ngengrad
+DEFAULT_WEBSITE	Standard-Website
+LANGUAGE	Sprache
+MAX_VALUE_85	Maximalwert ist 85
+MIN_VALUE_NEG_85	Minimalwert ist -85
+MAX_VALUE_180	Maximalwert ist 180
+MIN_VALUE_NEG_180	Minimalwert ist -180
+FILTERS	Suche beschr√§nken auf
+DESCRIPTION	Beschreibung
+NEW_USER_EMAIL	E-Mail-Adresse des neuen Benutzers eingeben
+PHOTO_INFORMATION	Bild-Informationen
+SHOW_INFO	Informationen zeigen
+HIDE_INFO	Informationen ausblenden
+NO_PHOTOS_SELECTED_FOR_UPLOAD	Es wurden keine Bilder f√ºr den Upload ausgew√§hlt!
+RETURN	zur√ºck
+ADD_TO_GALLERY	zur Galerie hinzuf√ºgen
+SAVE_AND_PUBLISH	speichern und ver√∂ffentlichen
+SAVE_AND_UNPUBLISH	speichern und Ver√∂ffentlichung aufheben
+LICENSES	Lizenzen
+LICENSABLE	Das Bild kann f√ºr die √ñffentlichkeit lizenziert werden
+LICENSABLE_PHOTOS	lizenzierbare Bilder
+UNLICENSABLE_PHOTOS	nicht lizenzierbare Bilder
+SPONSORED_PHOTOS	gesponserte Bilder
+UNSPONSORED_PHOTOS	nicht gesponserte Bilder
+LIGHTBOXES	Lightboxen
+CREATE_LIGHTBOX	Neue Lightbox
+REMOVE_FROM_LIGHTBOX	Soll dieses Bild wirklich aus der Lightbox entfernt werden?
+ADD_TO_LIGHTBOX	zur Lightbox hinzuf√ºgen
+MARK_AS_COLOR	als (Farbe) markieren
+GALLERY	Galerie
+LIGHTBOX	Lightbox
+SELECT_GALLERY	Galerie ausw√§hlen
+SELECT_LIGHTBOX	Lightbox ausw√§hlen
+SEND	senden
+UPDATE_LIGHTBOX_COLOR_SUCCESS	Die Farbe der Bilder wurde erfolgreich aktualisiert
+UPDATE_LIGHTBOX_COLOR_FAILURE	Die Farbe der Bilder konnte nicht aktualisiert werden
+SEND_TO_GALLERY_SUCCESS	Bilder wurden erfolgreich zur Galerie hinzugef√ºgt
+SEND_TO_GALLERY_FAILURE	Bilder konnten nicht zur Galerie hinzugef√ºgt werden
+SEND_TO_LIGHTBOX_SUCCESS	Bilder wurden erfolgreich zur Lightbox hinzugef√ºgt
+SEND_TO_LIGHTBOX_FAILURE	Bilder konnten nicht zur Lightbox hinzugef√ºgt werden
+CONFIRM_REMOVE_FROM_LIGHTBOX	Sollen die folgenden Bilder wirklich aus der Lightbox entfernt werden?
+DELETE_LIGHTBOX	Lightbox l√∂schen
+DELETE_LIGHTBOX_SUCCESS	Lightbox wurde erfolgreich gel√∂scht
+DELETE_LIGHTBOX_FAILURE	Lightbox konnte nicht gel√∂scht werden
+SELECT_GALLERIES	Galerien ausw√§hlen
+EXCEEDED_MAX_UPLOAD	Der Upload konnte nicht abgeschlossen werden. Es k√∂nnen nur %max% Bilder gleichzeitig hochgeladen werden.
+CLICK_ADD_GALLERY	Hier klicken, um Bild zur Galerie hinzuzuf√ºgen
+CLICK_ADD_LIGHTBOX	Hier klicken, um Bild zur Lightbox hinzuzuf√ºgen
+CLICK_TO_SELECT	Hier klicken, um auszuw√§hlen
+CLICK_REMOVE_GALLERY	Hier klicken, um Bild aus der Galerie zu entfernen
+CLICK_REMOVE_LIGHTBOX	Hier klicken, um Bild aus der Lightbox zu entfernen
+CLICK_TO_DESELECT	Hier klicken, um die Auswahl aufzuheben
+MOVE_TO	verschieben nach
+CONFIRM_REMOVE_FROM_GALLERY	Sollen die folgenden Bilder wirklich aus der Galerie entfernt werden?
+NO_GALLERY_PUBLISH_PRIV	Diese Galerie kann nicht ver√∂ffentlicht werden, da dir die Berechtigungen dazu fehlen. Sprich mit einem Administrator.
+NO_GALLERY_SAVE_PRIV	Diese Galerie kann nicht aktualisiert werden, da dir die Berechtigungen dazu fehlen. Sprich mit einem Administrator.
+SOURCE	Quelle
+COPYRIGHT	Urheberrecht
+CANONICAL_URL	kanonische URL
+SITE	Website
+SITES	Websites
+SOURCE_NAME	Name der Quelle
+SOURCE_TYPE	Art der Quelle
+SOURCE_ID	Id der Quelle
+SUBTYPE	Subtyp
+LABEL	Label
+SLUG	Slug
+CONTENT_RESTRICTIONS	Inhaltsbeschr√§nkungen
+SYNDICATION	Mehrfachverwendung
+EXTERNAL_DISTRIBUTION	Externe Verteilung
+VISIBLE_TO_SEARCH	Sichtbar f√ºr die Suche
+COMMENTS	Kommentare
+ALLOW_COMMENTS	Kommentare erlauben
+DISPLAY_COMMENTS	Kommentare anzeigen
+MODERATION_REQUIRED	Moderation ben√∂tigt
+DATE_PREFERENCE	Pr√§feriertes Datum
+CREATED_DATE	Datum hochgeladen zu Anglerfish
+UPDATED_DATE	Datum der letzten Aktualisierung
+TAKEN_ON	Datum der Bildaufnahme
+DEFAULT_SEARCH_RANGE	Standardsuchbereich
+ALL	Alle
+LAST_DAY	In den letzten 24 Stunden
+LAST_WEEK	In der letzten Woche
+LAST_MONTH	Im letzten Monat
+STATUS	Status
+DEFAULT_STATUS	Standardstatus bei der Selektorsuche
+DISPLAY_DATE	Datum der Anzeige
+USAGE_INSTRUCTIONS	Gebrauchsanweisung
+WORKFLOW_STATUS	Workflow-Status
+NOTE	Notiz
+CROP_PHOTO	Zuschneiden
+DOWNLOAD_PHOTO	Herunterladen
+ASPECT_RATIO	Bildformat
+ADD	hinzuf√ºgen
+UPDATE	aktualisieren
+MORE	Mehr
+MORE_SOURCES	Namen der Quelle zur Suche hinzuf√ºgen
+SOURCE_NAME_SETTINGS	Einstellungen f√ºr Namen der Quelle
+SOURCE_NAME_SETTINGS_DESCR	Anzeige der Namen f√ºr jede Quellenart konfigurieren
+NONE	keine
+CHECKBOX	Kontrollk√§stchen
+MORE_BUTTON	Button "Mehr"
+SELECT_ALL	Alles ausw√§hlen
+CLEAR	leeren
+SELECTED	ausgew√§hlt
+UNABLE_TO_CROP_PHOTO	Beim Zuschneiden des Bildes ist ein Fehler aufgetreten.
+SPONSORED_CONTENT	Gesponserte Inhalte
+OWNER_NAME	Name des Inhabers
+CUSTOM_CREDIT	benutzerdefinierte Quelle
+LOCATION_PLACEHOLDER	Beschreibung des Ortes einf√ºgen
+PLANNED_PUBLISH_DATE	Geplantes Datum der Ver√∂ffentlichung
+BEST_MATCH	Beste √úbereinstimmung
+NEWEST	neuestes
+OLDEST	√§ltestes
+SORT_BY	sortieren nach
+BULK_COPY_TEXT	In alle kopieren
+WAIT_WHILE_SAVING	Bitte warten, w√§hrend die Bilder gespeichert werden
+SAVING	Speichern
+FIELD_OPTIONS	Feldoptionen
+DEFAULTS	Standardwerte f√ºr Felder
+VISIBILITY	Sichtbarkeit des Feldes im Bearbeitungsbildschirm
+CANONICAL_WEBSITE	Kanonische Website
+CHOOSE_ONE	eins ausw√§hlen
+INGESTION_METHOD	Aufnahmemethode
+MANUAL_UPLOAD	Manueller Upload
+SECTIONS	Ressorts
+SECTION_NAMES	Ressortnamen
+LARGE	Gro√ü
+MEDIUM	Mittel
+SMALL	Klein
+XSMALL	Sehr klein
+LOADING_PHOTOS	Bilder werden geladen
+LOADING_LIGHTBOXES	Lightboxen werden geladen
+LOADING_GALLERIES	Galerien werden geladen
+SAVING_PHOTOS	Bilder werden gespeichert
+SITE_HIERARCHY_SETTINGS	Website Hierarchie Einstellungen
+SITE_NAME	Website Name
+HIERARCHY_NAME	Hierarchie
+SITE_HIERARCHY	Website Hierarchie
+COLORS	Farben
+MORE_DETAILS	Mehr Details
+WEBSITE_URL	Website URL
+SAVING_GALLERY	Galerie wird gespeichert
+NEW	Neu
+PHOTOGRAPHER	Fotograf
+PUBLISH_ON_UPLOAD	Bilder beim Hochladen ver√∂ffentlichen
+PHOTO_IS	Bild ist
+RESTRICTED	Eingeschr√§nkt
+UNRESTRICTED	Uneingeschr√§nkt
+CLONE	dupliziern
+DERIVATIVE_OF	Dieses Bild ist eine Ableitung von
+COPY_TO_CLIPBOARD	In die Zwischenablage kopieren
+COPY_TO_CLIPBOARD_INSTR	In die Zwischenablage kopieren   Ctrl + C, Enter
+CREDIT_IN_ARC	Kredit (IPTC-Datensatz in Arc)
+TITLE_IN_ARC	Jobtitel des Verfassers (IPTC-Datensatz in Arc)
+HEADLINE_IN_ARC	√ºberschrift (IPTC-Datensatz in Arc; Fr√ºher als "Titel" bezeichnet)
+SOURCE_IN_ARC	Quelle (IPTC-Datensatz in Arc)
+GALLERY_DERIVATIVE_OF	Diese Galerie ist eine Ableitung von
+LIGHTBOX_DERIVATIVE_OF	Dieser Leuchtkasten ist eine Ableitung von
+UPLOADED_BY	Hochgeladen von
+PRIMARY_WEBSITES	Prim√§re websites
+SELECT_WEBSITE	W√§hlen sie eine website
+WEBSITES	Websites
+SAVE_AND_RETURN	Speichern und zur√ºckgeben
+DP	L√∂schen Sie ein beliebiges Foto
+DG	L√∂schen Sie eine beliebige Galerie
+UP	Aktualisieren Sie ein Foto
+UG	Aktualisieren Sie eine Galerie
+PP	Ver√∂ffentlichen Sie ein beliebiges Foto
+PG	Ver√∂ffentlichen Sie eine beliebige Galerie
+USPG	Verwenden Sie gesponserte Fotos und Galerien
+URP	Verwenden Sie eingeschr√§nkte Fotos
+UPS	Foto vom Selektor hochladen
+SPR	Foto eingeschr√§nkt einstellen
+CP	Foto zuschneiden
+CPGL	Klonen Sie Fotos, Galerien und Leuchtk√§sten
+UOS	Aktualisieren Sie die Organisationseinstellungen
+CPAG	Ver√∂ffentlichen Sie eine beliebige Galerie
+UGPW	Update Galerie Hauptwebsite
+VG	Galerie ansehen
+MY_ANGLERFISH_PERMISSIONS	Meine Anglerfish-Berechtigungen
+MY_GROUPS	Meine Gruppen
+MY_CONTACT_INFO	Meine Kontaktinformationen
+MY_PROFILE	Mein Profil
+ORGANIZATION_SETTINGS	Organisationseinstellungen
+NO_ANGLERFISH_PRIVS	Sie haben keine spezifischen Anglerfish-Privilegien
+DISTRIBUTOR_NAME	Distributor-Name
+DISTRIBUTOR_CATEGORY	H√§ndlerkategorie
+DISTRIBUTOR_SUBCATEGORY	Unterkategorie des Vertriebspartners
+STAFF	personal
+WIRES	dr√§hte
+FREELANCE	freier
+STOCK	stock
+HANDOUT	handout
+OTHER	sonstige
+SELECT_CATEGORY	W√§hlen Sie eine Kategorie
+FIELD_REQUIRED	Erforderlich?
+FIELD_VISIBLE	Sichtbar?
+FIELD_SETTINGS	Feldeinstellungen
+PHOTO_FIELDS	Foto Felder
+PHOTO_ACTIVITY	Fotoaktivit√§t
+APPEARS_IN	Erscheint in
+CHANGE_HISTORY	HistorGeschichte ver√§ndern
+NUMBER_DAYS_RESTRICT_HANDOUT_IMAGES	Anzahl der Tage zum Einschr√§nken von Handzettel Bildern
+PRIMARY_SECTION	Prim√§rer Abschnitt
+PRIMARY_WEBSITE	Prim√§re website
+ALL_SITES	Alle websites
+AT	beim
+ON	auf
+ASSOCIATED_TASKS	Zugeh√∂rige Aufgaben
+ADD_ASSOCIATED_TASK	F√ºgen Sie eine zugeordnete Aufgabe hinzu
+IPTC_JOB_IDENTIFIER	Jobkennung (IPTC-Datensatz in Arc)
+IPTC_SOURCE	IPTC-Quelle
+TASK_MODIFICATION_WARNING	Warnung: √Ñnderungen an den Aufgaben-IDs eines Fotos wirken sich auf den mit der Aufgabe verkn√ºpften Leuchtkasten aus.
+EDIT_LIGHTBOX_DETAILS	Lightbox-Details bearbeiten
+ASSOCIATED_TASK	Verbundene Tas
+NEW_LIGHTBOX_FAILURE	Lightbox konnte nicht erstellt werden
+ADD_PHOTOS_TO_A_GALLERY_OR_LIGHTBOX	Fotos zu einer Galerie oder Lightbox hinzuf√ºgen
+ADD_TO	Hinzuf√ºgen
+SEARCH_AND_SELECT	Suchen und w√§hlen Sie Galerien oder Leuchtk√§sten und f√ºgen Sie Fotos hinzu
+INTERNAL_NOTE	Interner Hinweis
+NO_GALLERY_VIEW_PRIV	Sie k√∂nnen diese Galerie nicht sehen, weil Sie keine Privilegien haben. Sprechen Sie mit einem Administrator f√ºr weitere Details.
+PATH_TO_RESIZER	Pfad zur Gr√∂√üen√§nderung
+NO_PHOTOS_SUMMITTED_FOR_TASKS	F√ºr Aufgaben wurden noch keine Bilder eingereicht
+VIEW_URL_AFTER_PUBLISHING	URL nach dem Ver√∂ffentlichen und Speichern anzeigen
+IMAGE_TYPE	Bildtyp
+PHOTOGRAPH	Fotografieren
+GRAPHIC	Grafik
+ILLUSTRATION	Illustration
+THUMBNAIL	Miniaturansicht
+UPLOAD_IMAGES	Bilder hochladen
+BROWSE_FILES	Dateien durchsuchen
+SELECT_FILES	Dateien ausw√§hlen
+MULTIEDIT_DISABLED	Sie k√∂nnen nur Bilder desselben Typs bearbeiten
